@@ -59,9 +59,6 @@ After logging in, access the **dashboard** to see key statistics like total sale
 ### 📋 Handle Orders
 Go to the **Orders** section to view, process, or update order statuses (e.g., pending, shipped, delivered).
 
-### 👤 Manage Users
-Access the **User Management** area to view customer accounts, edit user details, or handle account issues.
-
 ### 📈 View Reports
 Check basic sales analytics and performance summaries in the **Reports** or **Analytics** section.
 
