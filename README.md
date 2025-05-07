@@ -106,8 +106,10 @@ Always **log out** from the admin panel when done to keep the system secure.
 
 ## 🐞 Known Issues
 
-- 🔍 Search functionality in the home section is currently not working.
-- 🛠️ Product filters may not update results dynamically without refreshing.
-- ⚠️ Some form validations (e.g., contact number format) need improvement.
-- 📉 Admin panel has limited analytics — only basic sales tracking.
-- 📱 Mobile responsiveness may need more optimization on smaller screens.
+- 🔍 **Search functionality** in the home section is currently not working.
+- 🛠️ **Product filters** may not update results dynamically without refreshing.
+- 🚫 When I log in, it says "undefined," and I need to refresh to fully log in.
+- ➕ The **plus icon** isn't working.
+- ⚠️ The "Buy Now" functionality is not fully working due to a conflict with the address selection.
+- ⚠️ Some **form validations** (e.g., contact number format) need improvement.
+- 📱 **Mobile responsiveness** needs more optimization on smaller screens.
